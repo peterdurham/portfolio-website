@@ -1,15 +1,5 @@
 [
   {
-    "title": "Volvo SUVs Page",
-    "slug": "volvo-suvs",
-    "type": "Landing Page",
-    "description": "Custom Interactive Landing Page for Volvo and Digital Trends using JavaScript with CSS animations",
-    "github": "",
-    "url": "https://www.digitaltrends.com/dtdesign/volvo-suvs/",
-    "image": "../images/projects/volvo-suvs.jpg",
-    "tools": ["JS", "CSS"]
-  },
-  {
     "title": "Code Boost Tutorials",
     "slug": "code-boost",
     "type": "Tutorials Blog",
@@ -20,14 +10,14 @@
     "tools": ["React", "Gatsby", "Netlify CMS"]
   },
   {
-    "title": "Tokyo Ramen",
-    "slug": "tokyo-ramen",
-    "type": "Restaurant Website",
-    "description": "Ramen restaurant demo website built with React and React Router",
-    "github": "https://github.com/peterdurham/tokyo-ramen",
-    "url": "https://tokyo-ramen.netlify.com",
-    "image": "../images/projects/tokyo-ramen.jpg",
-    "tools": ["React", "React Router"]
+    "title": "Volvo SUVs Page",
+    "slug": "volvo-suvs",
+    "type": "Landing Page",
+    "description": "Custom Interactive Landing Page for Volvo and Digital Trends using JavaScript with CSS animations",
+    "github": "",
+    "url": "https://www.digitaltrends.com/dtdesign/volvo-suvs/",
+    "image": "../images/projects/volvo-suvs.jpg",
+    "tools": ["JS", "CSS"]
   },
   {
     "title": "Culture Club",
@@ -39,28 +29,17 @@
     "image": "../images/projects/culture-club.jpg",
     "tools": ["React", "Next", "GraphQL", "Node", "MongoDB"]
   },
-
   {
-    "title": "12 Holiday Hacks",
-    "slug": "12-holiday-hacks",
-    "type": "Landing Page",
-    "description": "Custom Interactive Landing Page for HP built using vanilla JavaScript and CSS animations",
-    "github": "",
-    "url": "https://www.digitaltrends.com/topic/12-holiday-hacks/",
-    "image": "../images/projects/12-holiday-hacks.jpg",
-    "tools": ["JS", "CSS"]
+    "title": "Tokyo Ramen",
+    "slug": "tokyo-ramen",
+    "type": "Restaurant Website",
+    "description": "Ramen restaurant demo website built with React and React Router",
+    "github": "https://github.com/peterdurham/tokyo-ramen",
+    "url": "https://tokyo-ramen.netlify.com",
+    "image": "../images/projects/tokyo-ramen.jpg",
+    "tools": ["React", "React Router"]
   },
 
-  {
-    "title": "5g Availability Map",
-    "slug": "5g-map",
-    "type": "Interactive Map",
-    "description": "Map for 5g Availability in US built using React and Mapbox API",
-    "github": "",
-    "url": "https://www.digitaltrends.com/mobile/5g-availability-map/",
-    "image": "../images/projects/5g-map.jpg",
-    "tools": ["React", "Mapbox"]
-  },
   {
     "title": "Node Update",
     "slug": "node-update",
@@ -70,6 +49,16 @@
     "url": "https://www.nodeupdate.com/",
     "image": "../images/projects/node-update.jpg",
     "tools": ["Gatsby", "Node", "Express", "MongoDB"]
+  },
+  {
+    "title": "5g Availability Map",
+    "slug": "5g-map",
+    "type": "Interactive Map",
+    "description": "Map for 5g Availability in US built using React and Mapbox API",
+    "github": "",
+    "url": "https://www.digitaltrends.com/mobile/5g-availability-map/",
+    "image": "../images/projects/5g-map.jpg",
+    "tools": ["React", "Mapbox"]
   },
   {
     "title": "RPG World",
@@ -82,6 +71,16 @@
     "tools": ["React", "React Router"]
   },
   {
+    "title": "12 Holiday Hacks",
+    "slug": "12-holiday-hacks",
+    "type": "Landing Page",
+    "description": "Custom Interactive Landing Page for HP built using vanilla JavaScript and CSS animations",
+    "github": "",
+    "url": "https://www.digitaltrends.com/topic/12-holiday-hacks/",
+    "image": "../images/projects/12-holiday-hacks.jpg",
+    "tools": ["JS", "CSS"]
+  },
+  {
     "title": "Apple iPhone 11 review",
     "slug": "iphone-11-amp-review",
     "type": "AMP Story",
@@ -91,26 +90,7 @@
     "image": "../images/projects/iphone-11-review.jpg",
     "tools": ["AMP", "CSS"]
   },
-  {
-    "title": "Space Tourism Article",
-    "slug": "environmental-costs-of-space-tourism",
-    "type": "Custom Article",
-    "description": "Interactive article for Digital Trends built with Webflow using custom animations",
-    "github": "",
-    "url": "https://www.digitaltrends.com/dtdesign/environmental-costs-of-space-tourism/",
-    "image": "../images/projects/Space_Tourism_OG_image.jpg",
-    "tools": ["Webflow"]
-  },
-  {
-    "title": "Digital Trends Style Guide",
-    "slug": "dt-style-guide",
-    "type": "Style Guide",
-    "description": "Style guide for Digital Trends Website's creative resources.",
-    "github": "",
-    "url": "https://dtdesign.digitaltrends.com/",
-    "image": "../images/projects/dt-style-guide.jpg",
-    "tools": ["Webflow"]
-  },
+
   {
     "title": "Michigan is Driving Mobility",
     "slug": "michigan-is-driving-mobility",
@@ -180,5 +160,25 @@
     "url": "https://peterdurham.github.io/timers-demo/",
     "image": "../images/projects/timers.jpg",
     "tools": ["React"]
+  },
+  {
+    "title": "Space Tourism Article",
+    "slug": "environmental-costs-of-space-tourism",
+    "type": "Custom Article",
+    "description": "Interactive article for Digital Trends built with Webflow using custom animations",
+    "github": "",
+    "url": "https://www.digitaltrends.com/dtdesign/environmental-costs-of-space-tourism/",
+    "image": "../images/projects/Space_Tourism_OG_image.jpg",
+    "tools": ["Webflow"]
+  },
+  {
+    "title": "Digital Trends Style Guide",
+    "slug": "dt-style-guide",
+    "type": "Style Guide",
+    "description": "Style guide for Digital Trends Website's creative resources.",
+    "github": "",
+    "url": "https://dtdesign.digitaltrends.com/",
+    "image": "../images/projects/dt-style-guide.jpg",
+    "tools": ["Webflow"]
   }
 ]
