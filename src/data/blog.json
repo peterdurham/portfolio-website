@@ -1,0 +1,371 @@
+[
+  {
+    "title": "Hosting Web Apps with Heroku",
+    "url": "https://www.code-boost.com/heroku-web-app-hosting/",
+    "site": "code-boost",
+    "slug": "post-52",
+    "image": "../images/blog/post52.jpg",
+    "excerpt": "Heroku is a web platform that allows users to build, deploy, and maintain cloud applications. The platform specializes in hosting minimal config Node JS applications with both free and paid tiers."
+  },
+  {
+    "title": "JavaScript Types Explained",
+    "url": "https://www.code-boost.com/types-in-javascript/",
+    "site": "code-boost",
+    "slug": "post-51",
+    "image": "../images/blog/post51.jpg",
+    "excerpt": "In JavaScript there are 7 main types that you will see values take on. These types include String, Number, Boolean, Object, Undefined, Null, and Symbol."
+  },
+  {
+    "title": "Create a blog with Netlify CMS and Gatsby",
+    "url": "https://www.code-boost.com/netlify-cms-gatsby-blog/",
+    "site": "code-boost",
+    "slug": "post-50",
+    "image": "../images/blog/post50.jpg",
+    "excerpt": "Netlify CMS is an open source content-management tool that works using git. It allows the user to create posts and pages in a web-based UI. One or more users can sign in to an admin panel to edit, preview, and publish content."
+  },
+  {
+    "title": "Prettier Code Formatter Setup Guide",
+    "url": "https://www.code-boost.com/prettier-setup-guide/",
+    "site": "code-boost",
+    "slug": "post-49",
+    "image": "../images/blog/post49.jpg",
+    "excerpt": "Prettier is a code formatter that works with several languages including CSS, JavaScript, and React. Prettier is opinionated, in that it makes certain stylistic choices for you such as when to make a new line."
+  },
+  {
+    "title": "Node File System Basics",
+    "url": "https://www.code-boost.com/node-file-system-basics/",
+    "site": "code-boost",
+    "slug": "post-48",
+    "image": "../images/blog/post48.jpg",
+    "excerpt": "Node.js comes with a built-in File System (fs) module that has all the features needed to perform CRUD operators on local files and folders. First install NodeJS if you haven’t already."
+  },
+  {
+    "title": "Hosting Web Apps with Netlify",
+    "url": "https://www.code-boost.com/hosting-web-apps-with-netlify/",
+    "site": "code-boost",
+    "slug": "post-47",
+    "image": "../images/blog/post47.jpg",
+    "excerpt": "Netlify is a cloud hosting platform for static websites and serverless backend services. Netlify’s workflow is extremely simple as it connects directly with your Github, Gitlab, or Bitbucket account. Netlify’s numerous features include (but are not limited to)"
+  },
+  {
+    "title": "Beginner's Guide to Using SCSS",
+    "url": "https://www.code-boost.com/beginners-guide-to-scss/",
+    "site": "code-boost",
+    "slug": "post-46",
+    "image": "../images/blog/post46.jpg",
+    "excerpt": "SCSS is a popular preprocessor too for CSS that provides additional highly useful features. The syntax originally was derived from SASS which is a similar tool. In addition to its useful features, SCSS has seen wide adoption because .scss files work with CSS styles too."
+  },
+  {
+    "title": "Intro to Declarative Routing with React Router",
+    "url": "https://www.code-boost.com/react-router-intro/",
+    "site": "code-boost",
+    "slug": "post-45",
+    "image": "../images/blog/post45.jpg",
+    "excerpt": "React Router is a third-party library for React that uses declarative component routing. It allows you to assign components to specific endpoints on your site. Those endpoints can be visited by using React Router’s internal link component."
+  },
+  {
+    "title": "GraphQL Basics",
+    "url": "https://www.code-boost.com/graphql-basics/",
+    "site": "code-boost",
+    "slug": "post-44",
+    "image": "../images/blog/post44.jpg",
+    "excerpt": "GraphQL is a query language for building and consuming APIs. It is an improvement to using REST APIs as GraphQL includes all the necessary data in a single endpoint."
+  },
+  {
+    "title": "How to Build a Full Stack MERN App (Node/React)",
+    "url": "https://www.code-boost.com/full-stack-mern-app/",
+    "site": "code-boost",
+    "slug": "post-43",
+    "image": "../images/blog/post43.jpg",
+    "excerpt": "This tutorial is meant to help you create a basic working full-stack application using React and Node."
+  },
+  {
+    "title": "How to Set up React in a HTML File",
+    "url": "https://www.code-boost.com/react-in-html-file-setup/",
+    "site": "code-boost",
+    "slug": "post-42",
+    "image": "../images/blog/post42.jpg",
+    "excerpt": "React is a frontend library for building applications and websites. Most people create their React application with a build tool such as webpack, create-react-app, parcel, Next, Gatsby, etc. An alternative to this is to load React via a CDN link into an index.html file which can be easily hosted on Netlify or elsewhere."
+  },
+  {
+    "title": "Ultimate Guide to CSS Units",
+    "url": "https://www.code-boost.com/ultimate-guide-to-css-units/",
+    "site": "code-boost",
+    "slug": "post-41",
+    "image": "../images/blog/post41.jpg",
+    "excerpt": "In CSS, properties are often expressed in terms of a length value. Such properties include width, height, margin, padding, font-size, line-height, etc."
+  },
+  {
+    "title": "ESLint Setup Explained",
+    "url": "https://www.code-boost.com/eslint-setup-explained/",
+    "site": "code-boost",
+    "slug": "post-40",
+    "image": "../images/blog/post40.jpg",
+    "excerpt": "ESLint is a tool for establishing and enforcing patterns across a project to make code more consistent. It is a great tool to help enforce and clean up messy code."
+  },
+  {
+    "title": "How to use the Object-Fit Property in CSS",
+    "url": "https://www.code-boost.com/how-to-use-object-fit-property/",
+    "site": "code-boost",
+    "slug": "post-39",
+    "image": "../images/blog/post39.jpg",
+    "excerpt": "Images used in HTML or JSX will be loaded by default at their actual size and aspect ratio. Oftentimes we need to fit images into a specific sized container while maintaining that aspect ratio. For the longest time the background property (instead of <img /> tags) was the primary way to do this."
+  },
+  {
+    "title": "Responsive Development using CSS Media Queries",
+    "url": "https://www.code-boost.com/css-responsive-media-queries/",
+    "site": "code-boost",
+    "slug": "post-38",
+    "image": "../images/blog/post38.jpg",
+    "excerpt": "Media queries are a technique of applying CSS styles only on certain screen sizes. This is helpful, and in many cases necessary when developing for multiple device types and manufacturers.   There are many options for media query arguments, and for this tutorial we will see how min-width and max-width allow us to develop responsive websites. If you want to follow along in the editor, create a index.html file now to test the code in browser."
+  },
+  {
+    "title": "Using GraphQL in your Gatsby sites",
+    "url": "https://www.code-boost.com/using-graphql-in-gatsby-sites/",
+    "site": "code-boost",
+    "slug": "post-37",
+    "image": "../images/blog/post37.jpg",
+    "excerpt": "Gatsby is a React framework for generating serverside rendered applications. Gatsby is opinionated, in that it uses GraphQL by default to access interal dependencies such as images or blog posts. It is an excellent tool for setting up static pages, as well as for learning GraphQL which is currently seeing rapid adoption."
+  },
+  {
+    "title": "Different ways to use CSS",
+    "url": "https://www.code-boost.com/different-css-methods/",
+    "site": "code-boost",
+    "slug": "post-36",
+    "image": "../images/blog/post36.jpg",
+    "excerpt": "CSS or Cascading Style Sheets is a way to add styles to web documents. There are numerous methods of applying CSS to your webpage or application."
+  },
+  {
+    "title": "How to Handle Inputs and Forms in React",
+    "url": "https://www.code-boost.com/react-inputs-and-forms/",
+    "site": "code-boost",
+    "slug": "post-35",
+    "image": "../images/blog/post35.jpg",
+    "excerpt": "Forms are helpful for allowing user input on a webpage. In order to setup a basic form in React, first create a new project using create-react-app (or whichever build tool you prefer)."
+  },
+  {
+    "title": "Different Methods to Fetch Data with React",
+    "url": "https://www.code-boost.com/fetch-data-with-react/",
+    "site": "code-boost",
+    "slug": "post-34",
+    "image": "../images/blog/post34.jpg",
+    "excerpt": "There are plenty of methods you can use to retrieve data in React. This tutorial will explain some of the standard methods and syntaxes to do so. Each example is a standalone App component that can be copied to another React App for quick usage."
+  },
+  {
+    "title": "Build Server-side rendered React apps with NextJS",
+    "url": "https://www.code-boost.com/next-js-basics-and-setup/",
+    "site": "code-boost",
+    "slug": "post-33",
+    "image": "../images/blog/post33.jpg",
+    "excerpt": "Most frontend build tools (i.e. create-react-app) are are Client rendered by default, and will not be optimized for Google’s search engine crawlers. This problem has been solved by NextJS and Gatsby, which are currently the most popular build tools for Server rendering in React. Server rendering is useful for sites like stores or blogs to rank better in SEO by sending all metadata with the initial page load."
+  },
+  {
+    "title": "How to use CSS Background Images",
+    "url": "https://www.code-boost.com/css-background-images/",
+    "site": "code-boost",
+    "slug": "post-32",
+    "image": "../images/blog/post32.jpg",
+    "excerpt": "The CSS background or background-image property is a handy alternative to the <img /> tag for displaying images. To use this property, first create a div tag in your html"
+  },
+  {
+    "title": "The Best Shortcuts To Learn for VS Code",
+    "url": "https://www.code-boost.com/vs-code-hotkeys/",
+    "site": "code-boost",
+    "slug": "post-31",
+    "image": "../images/blog/post31.jpg",
+    "excerpt": "If you are using VS Code, here are some of the best shortcuts to speed up your coding. Here’s a quick refresher of some basic hotkeys that are not VS Code specific, but are still useful."
+  },
+  {
+    "title": "How to Set up an Apollo GraphQL Server",
+    "url": "https://www.code-boost.com/apollo-server-setup/",
+    "site": "code-boost",
+    "slug": "post-30",
+    "image": "../images/blog/post30.jpg",
+    "excerpt": "Apollo Server is an open-source GraphQL server for Node.js. It can be used with Apollo Client on the frontend to create a fullstack application. In this tutorial we will setup our own server for video game data. Once we have a working API, we can connect it to Mongodb Atlas, and deploy it to Heroku."
+  },
+  {
+    "title": "How to Set up a Gatsby JS Project",
+    "url": "https://www.code-boost.com/gatsby-basics/",
+    "site": "code-boost",
+    "slug": "post-29",
+    "image": "../images/blog/post29.jpg",
+    "excerpt": "Gatsby is a build tool for setting up Static React Applications. It uses server-side rendering and is great for creating blogs sites."
+  },
+  {
+    "title": "How to use the Position and Display CSS Attributes",
+    "url": "https://www.code-boost.com/css-position-and-display/",
+    "site": "code-boost",
+    "slug": "post-28",
+    "image": "../images/blog/post28.jpg",
+    "excerpt": "Display and Position are two of the most used CSS properties, each accepting a variety of arguments. Below are some of the most common applications of these properties."
+  },
+  {
+    "title": "Basics of the Document Object Model (DOM)",
+    "url": "https://www.code-boost.com/javascript-dom-basics/",
+    "site": "code-boost",
+    "slug": "post-27",
+    "image": "../images/blog/post27.jpg",
+    "excerpt": "The DOM, or Document Object Model is a programming interface for HTML documents. It is used by the browser to render webpages from HTML code. Each element in a document is part of a branched tree structure that includes parent and child nodes. The browser uses JavaScript to update various properties and elements in the document."
+  },
+  {
+    "title": "How to add Custom Fonts to you websites",
+    "url": "https://www.code-boost.com/custom-fonts-basics/",
+    "site": "code-boost",
+    "slug": "post-26",
+    "image": "../images/blog/post26.jpg",
+    "excerpt": "Most web browsers come with all of the basic fonts, however that’s only a small fraction of the available fonts online (free and premium). Additional fonts can be added either using font files (TTF, OTF, WOFF, WOFF2, etc) or by including them with a CDN such as Google Fonts."
+  },
+  {
+    "title": "How and Why to use React Hooks",
+    "url": "https://www.code-boost.com/react-hooks-basics/",
+    "site": "code-boost",
+    "slug": "post-25",
+    "image": "../images/blog/post25.jpg",
+    "excerpt": "React Hooks is a newer, opt-in way to write React code as of version 16.8 that comes with various pre-defined hook methods that serve a variety of functions. Hooks can only be used in functional components and have a syntax that is shorter and easier to read than class-based components. Hooks are optional, and can be converted one at a time when convenient."
+  },
+  {
+    "title": "CSS Flexbox Basics",
+    "url": "https://www.code-boost.com/css-flexbox/",
+    "site": "code-boost",
+    "slug": "post-24",
+    "image": "../images/blog/post24.jpg",
+    "excerpt": "Flexbox is a CSS layout module for creating containers that effectively align their content. It is a commonplace and useful syntax for setting up page layouts."
+  },
+  {
+    "title": "Array Methods in JavaScript",
+    "url": "https://www.code-boost.com/javascript-array-methods/",
+    "site": "code-boost",
+    "slug": "post-23",
+    "image": "../images/blog/post23.jpg",
+    "excerpt": "In JavaScript, arrays are list-like variables which store multiple values in a given order. There are numerous built in methods we can call on arrays to modify or arrange them. Though there are dozens of such methods, these are a few that I have found particularly useful. Follow along by either reading the code blocks beneath each function, or entering the commands in the terminal yourself."
+  },
+  {
+    "title": "How to Set up a Basic Node/Express Application",
+    "url": "https://www.code-boost.com/node-express-setup/",
+    "site": "code-boost",
+    "slug": "post-22",
+    "image": "../images/blog/post22.jpg",
+    "excerpt": "Node.js and Express are the cornerstore tools used to build Backend and Full-stack applications using JavaScript. Node is a JavaScript runtime that operates outside of the browser using Chrome’s V8 JavaScript engine."
+  },
+
+  {
+    "title": "How to Set up SCSS in Your Web Projects",
+    "url": "https://www.code-boost.com/scss-setup/",
+    "site": "code-boost",
+    "slug": "post-21",
+    "image": "../images/blog/post21.jpg",
+    "excerpt": "SCSS is a preprocessor for CSS that lets you use additional features in your CSS stylesheets. It automatically compiles your .scss files into .css files for the browser to read."
+  },
+  {
+    "title": "Conditional Rendering Basics in React",
+    "url": "https://www.code-boost.com/react-conditional-rendering/",
+    "site": "code-boost",
+    "slug": "post-20",
+    "image": "../images/blog/post20.jpg",
+    "excerpt": "Oftentimes when building with React, we will want to display different elements depending on the state of the application. There are numerous ways to do this in React, depending on the situation. In this tutorial we will walk through several of the options available."
+  },
+  {
+    "title": "How to Set up a React Webpack Application",
+    "url": "https://www.code-boost.com/webpack-react-setup/",
+    "site": "code-boost",
+    "slug": "post-19",
+    "image": "../images/blog/post19.jpg",
+    "excerpt": "Webpack is a static module bundler that you can use to build JavaScript applications. This allows you to setup projects which can understand and run all sorts of files including"
+  },
+  {
+    "title": "JavaScript DOM Methods and Properties",
+    "url": "https://www.code-boost.com/javascript-dom-methods/",
+    "site": "code-boost",
+    "slug": "post-18",
+    "image": "../images/blog/post18.jpg",
+    "excerpt": "In all browsers that use JavaScript we have access to a multitude of methods to affect what goes on the page. These methods will generally involve selecting and adjusting individual elements or accessing properties on the window."
+  },
+  {
+    "title": "Using the Date Object and Methods in JavaScript",
+    "url": "https://www.code-boost.com/javascript-date-reference/",
+    "site": "code-boost",
+    "slug": "post-17",
+    "image": "../images/blog/post17.jpg",
+    "excerpt": "In JavaScript, we can create and store dates using the Date object. By creating a new instance of this object, we can save the current time to a variable. This object gets used often in web applications for things like placing an order or logging in to an application. An instance of the Date object is created and stored to a database or in a cookie."
+  },
+  {
+    "title": "How to Save Data with Local Storage in React",
+    "url": "https://www.code-boost.com/react-local-storage/",
+    "site": "code-boost",
+    "slug": "post-16",
+    "image": "../images/blog/post16.jpg",
+    "excerpt": "As a library, React is great for displaying data on the front end. This data will not persist when the page refreshes however, so we will need to setup a data store of some kind. Modern web browsers allow us to store and retrieve strings of data using the browser’s built in setItem and getItem methods."
+  },
+  {
+    "title": "Create-React-App Setup Explained",
+    "url": "https://www.code-boost.com/create-react-app/",
+    "site": "code-boost",
+    "slug": "post-15",
+    "image": "../images/blog/post15.jpg",
+    "excerpt": "Create React App is a command line tool to build and deploy single-page React applications. It uses webpack and other packages under the hood for easy development setup. It is a great tool to use when you are first learning React as it lets you focus on writing components."
+  },
+  {
+    "title": "How to use JavaScript Import/Export (ES Modules)",
+    "url": "https://www.code-boost.com/javascript-es-modules-imports-and-exports/",
+    "site": "code-boost",
+    "slug": "post-14",
+    "image": "../images/blog/post14.jpg",
+    "excerpt": "JavaScript projects very often have multiple .js files, making it necessary to be able to access code from one file in another. Bundlers such as Webpack and Parcel are able to collect all of this code into a single or several machine readable files."
+  },
+  {
+    "title": "How to use React Icons in Your Projects",
+    "url": "https://www.code-boost.com/react-icons/",
+    "site": "code-boost",
+    "slug": "post-13",
+    "image": "../images/blog/post13.jpg",
+    "excerpt": "There are plenty of occasions in web development to reach for icons. Installing an icon package lets you import icons as svg. Of all the icon libraries for React, react-icons is the best."
+  },
+  {
+    "title": "Parcel Basic Setup for Vanilla JS and React",
+    "url": "https://www.code-boost.com/tools-parcel-setup/",
+    "site": "code-boost",
+    "slug": "post-12",
+    "image": "../images/blog/post12.jpg",
+    "excerpt": "Parcel is an easy to use build tool for bundling web applications. It is a simpler alternative to Webpack, requiring little to no configuration. In this tutorial, we will be setting up a Vanilla JavaScript app, converting into a React app, then deploying it live to Netlify."
+  },
+  {
+    "title": "Build Your Own Bitcoin API using Node.js and Bitcoin Core",
+    "url": "https://medium.com/@peterjd42/build-your-own-bitcoin-api-using-node-js-and-bitcoin-core-251e613623db",
+    "site": "medium",
+    "slug": "post-11",
+    "image": "../images/blog/post11.jpg",
+    "excerpt": "In this tutorial we will build an API using Node.js and Express that retrieves data from Bitcoin Core. This tutorial is meant to be a starter for anyone looking to create Bitcoin applications with Javascript."
+  },
+  {
+    "title": "Basic commands to interact with the Bitcoin Core RPC console",
+    "url": "https://medium.com/@peterjd42/basic-commands-to-interact-with-the-bitcoin-core-rpc-console-180da2c2dc45",
+    "site": "medium",
+    "slug": "post-10",
+    "image": "../images/blog/post10.jpg",
+    "excerpt": "In this article we will explore using a fully synced Bitcoin Core node to run commands in the bitcoin-qt console. If you don’t yet have Bitcoin Core installed on your computer, you can download it here."
+  },
+  {
+    "title": "Using Local Storage in React to imitate database functionality",
+    "url": "https://medium.com/@peterjd42/using-local-storage-in-react-to-imitate-database-functionality-a2c339cdc1b5",
+    "site": "medium",
+    "slug": "post-9",
+    "image": "../images/blog/post9.jpg",
+    "excerpt": "React is an excellent modern web framework for displaying data on the front end. This doesn’t include saving our data beyond a page refresh however. For that we would have to use a database, or a tool like localStorage..."
+  },
+  {
+    "title": "Building Timers in React: Stopwatch and Countdown",
+    "url": "https://medium.com/@peterjd42/building-timers-in-react-stopwatch-and-countdown-bc06486560a2",
+    "site": "medium",
+    "slug": "post-8",
+    "image": "../images/blog/post8.jpg",
+    "excerpt": "In this tutorial we will be using React to build a stopwatch timer and a countdown timer. Both timers will utilize intervals to keep track of time and can start, stop, resume, and reset...."
+  },
+  {
+    "title": "Create and Deploy a simple dice roll app using React & Github Pages",
+    "url": "https://medium.com/@peterjd42/create-and-deploy-a-simple-dice-roll-app-using-react-github-pages-b084283c767f",
+    "site": "medium",
+    "slug": "post-7",
+    "image": "../images/blog/post7.jpg",
+    "excerpt": "React is a library for building dynamic HTML views using Javascript. Create React App is a great way to get started using React with minimal configuration. In this tutorial I will be building a dice roll simulator using Create React App"
+  }
+]

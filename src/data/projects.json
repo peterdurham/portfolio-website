@@ -1,0 +1,184 @@
+[
+  {
+    "title": "Volvo SUVs Page",
+    "slug": "volvo-suvs",
+    "type": "Landing Page",
+    "description": "Custom Interactive Landing Page for Volvo and Digital Trends using JavaScript with CSS animations",
+    "github": "",
+    "url": "https://www.digitaltrends.com/dtdesign/volvo-suvs/",
+    "image": "../images/projects/volvo-suvs.jpg",
+    "tools": ["JS", "CSS"]
+  },
+  {
+    "title": "Code Boost Tutorials",
+    "slug": "code-boost",
+    "type": "Tutorials Blog",
+    "description": "JavaScript web development tutorials site built with Netlify CMS and Gatsby.",
+    "github": "https://github.com/peterdurham/code-boost",
+    "url": "https://www.code-boost.com/",
+    "image": "../images/projects/code-boost.jpg",
+    "tools": ["React", "Gatsby", "Netlify CMS"]
+  },
+  {
+    "title": "Tokyo Ramen",
+    "slug": "tokyo-ramen",
+    "type": "Restaurant Website",
+    "description": "Ramen restaurant demo website built with React and React Router",
+    "github": "https://github.com/peterdurham/tokyo-ramen",
+    "url": "https://tokyo-ramen.netlify.com",
+    "image": "../images/projects/tokyo-ramen.jpg",
+    "tools": ["React", "React Router"]
+  },
+  {
+    "title": "Culture Club",
+    "slug": "culture-club",
+    "type": "Media Tracker",
+    "description": "Application to track books, movies, and games built with Next JS and GraphQL",
+    "github": "https://github.com/peterdurham/culture-club",
+    "url": "https://culture-club-next-prod.herokuapp.com/",
+    "image": "../images/projects/culture-club.jpg",
+    "tools": ["React", "Next", "GraphQL", "Node", "MongoDB"]
+  },
+
+  {
+    "title": "12 Holiday Hacks",
+    "slug": "12-holiday-hacks",
+    "type": "Landing Page",
+    "description": "Custom Interactive Landing Page for HP built using vanilla JavaScript and CSS animations",
+    "github": "",
+    "url": "https://www.digitaltrends.com/topic/12-holiday-hacks/",
+    "image": "../images/projects/12-holiday-hacks.jpg",
+    "tools": ["JS", "CSS"]
+  },
+
+  {
+    "title": "5g Availability Map",
+    "slug": "5g-map",
+    "type": "Interactive Map",
+    "description": "Map for 5g Availability in US built using React and Mapbox API",
+    "github": "",
+    "url": "https://www.digitaltrends.com/mobile/5g-availability-map/",
+    "image": "../images/projects/5g-map.jpg",
+    "tools": ["React", "Mapbox"]
+  },
+  {
+    "title": "Node Update",
+    "slug": "node-update",
+    "type": "Statistics Dashboard",
+    "description": "Dashboard for data from Bitcoin Core built with Node JS and Gatsby (hosted on Digital Ocean)",
+    "github": "https://github.com/peterdurham/node-update",
+    "url": "https://www.nodeupdate.com/",
+    "image": "../images/projects/node-update.jpg",
+    "tools": ["Gatsby", "Node", "Express", "MongoDB"]
+  },
+  {
+    "title": "RPG World",
+    "slug": "rpg-world",
+    "type": "Gaming Website",
+    "description": "Role playing game demo site and store built using React and React Router",
+    "github": "https://github.com/peterdurham/rpg-world",
+    "url": "https://rpg-world-site.netlify.com",
+    "image": "../images/projects/rpg-world.jpg",
+    "tools": ["React", "React Router"]
+  },
+  {
+    "title": "Apple iPhone 11 review",
+    "slug": "iphone-11-amp-review",
+    "type": "AMP Story",
+    "description": "Amp Story for iPhone 11 review (Digital Trends)",
+    "github": "",
+    "url": "https://www.digitaltrends.com/dtdesign/iphone-11-amp-review/",
+    "image": "../images/projects/iphone-11-review.jpg",
+    "tools": ["AMP", "CSS"]
+  },
+  {
+    "title": "Space Tourism Article",
+    "slug": "environmental-costs-of-space-tourism",
+    "type": "Custom Article",
+    "description": "Interactive article for Digital Trends built with Webflow using custom animations",
+    "github": "",
+    "url": "https://www.digitaltrends.com/dtdesign/environmental-costs-of-space-tourism/",
+    "image": "../images/projects/Space_Tourism_OG_image.jpg",
+    "tools": ["Webflow"]
+  },
+  {
+    "title": "Digital Trends Style Guide",
+    "slug": "dt-style-guide",
+    "type": "Style Guide",
+    "description": "Style guide for Digital Trends Website's creative resources.",
+    "github": "",
+    "url": "https://dtdesign.digitaltrends.com/",
+    "image": "../images/projects/dt-style-guide.jpg",
+    "tools": ["Webflow"]
+  },
+  {
+    "title": "Michigan is Driving Mobility",
+    "slug": "michigan-is-driving-mobility",
+    "type": "Infographic",
+    "description": "Custom Infographic for Michigan Mobility",
+    "github": "",
+    "url": "https://www.digitaltrends.com/dtdesign/michigan-is-driving-mobility/",
+    "image": "../images/projects/MEDC-mobility.jpg",
+    "tools": ["Webflow"]
+  },
+  {
+    "title": "Roulette",
+    "slug": "roulette",
+    "type": "Game",
+    "description": "Roulette simulator app (React)",
+    "github": "https://github.com/peterdurham/roulette",
+    "url": "https://peterdurham.github.io/roulette/",
+    "image": "../images/projects/roulette.jpg",
+    "tools": ["React"]
+  },
+  {
+    "title": "Poker Hands",
+    "slug": "poker-hands",
+    "type": "Game",
+    "description": "Texas Holdem poker hand simulator (React)",
+    "github": "https://github.com/peterdurham/poker-hands",
+    "url": "https://peterdurham.github.io/poker-hands/",
+    "image": "../images/projects/poker-hands.jpg",
+    "tools": ["React"]
+  },
+  {
+    "title": "Image Library",
+    "slug": "image-library",
+    "type": "Image Lookup",
+    "description": "Image search using the Pixabay API (React)",
+    "github": "https://github.com/peterdurham/image-library",
+    "url": "https://peterdurham.github.io/image-library/",
+    "image": "../images/projects/image-library.jpg",
+    "tools": ["React"]
+  },
+  {
+    "title": "Project Euler",
+    "slug": "project-euler",
+    "type": "Coding Challenges",
+    "description": "Coding & Math problems, 1-10 solved (React)",
+    "github": "https://github.com/peterdurham/project-euler",
+    "url": "https://peterdurham.github.io/project-euler/",
+    "image": "../images/projects/project-euler.jpg",
+    "tools": ["JS", "React"]
+  },
+  {
+    "title": "Scifi & Fantasy Booklist",
+    "slug": "scifi-fantasy-booklist",
+    "type": "Books Website",
+    "description": "Top SciFi and Fantasy Books (React)",
+    "github": "https://github.com/peterdurham/scifi-fantasy-booklist",
+    "url": "https://peterdurham.github.io/scifi-fantasy-booklist/",
+    "image": "../images/projects/scifi-fantasy-booklist.jpg",
+    "tools": ["React"]
+  },
+  {
+    "title": "Timers",
+    "slug": "timers",
+    "type": "Code Demo",
+    "description": "Stopwatch/Countdown timers tutorial (React)",
+    "github": "https://github.com/peterdurham/timers-demo",
+    "url": "https://peterdurham.github.io/timers-demo/",
+    "image": "../images/projects/timers.jpg",
+    "tools": ["React"]
+  }
+]
