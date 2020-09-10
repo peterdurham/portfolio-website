@@ -35,7 +35,12 @@ const BlogSection = () => {
       <div className="posts">
         {data.posts.edges.map(({ node }) => {
           return (
-            <a href={node.url} key={node.url}>
+            <a
+              href={node.url}
+              key={node.url}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <div className="preview">
                 <div className="preview-image">
                   <Img fluid={node.image.childImageSharp.fluid} />

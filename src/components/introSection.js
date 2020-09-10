@@ -65,7 +65,7 @@ const IntroStyles = styled.section`
     width: 100%;
     height: 100%;
     position: absolute;
-    top: 50px;
+    top: 40px;
     left: 0;
     object-fit: cover;
     @media (max-width: 700px) {

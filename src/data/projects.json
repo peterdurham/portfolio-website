@@ -10,6 +10,16 @@
     "tools": ["React", "Gatsby", "Netlify CMS"]
   },
   {
+    "title": "Portfolio Watch",
+    "slug": "portfolio-watch",
+    "type": "Investing Dashboard",
+    "description": "Full-stack GraphQL investment tracking dashboard using React and Node",
+    "github": "https://github.com/peterdurham/portfolio-watch-client",
+    "url": "https://portfolio-watch.netlify.app/",
+    "image": "../images/projects/portfolio-watch.jpg",
+    "tools": ["React", "GraphQL", "Node", "MongoDB"]
+  },
+  {
     "title": "Volvo SUVs Page",
     "slug": "volvo-suvs",
     "type": "Landing Page",
@@ -30,6 +40,16 @@
     "tools": ["React", "Next", "GraphQL", "Node", "MongoDB"]
   },
   {
+    "title": "Node Update",
+    "slug": "node-update",
+    "type": "Statistics Dashboard",
+    "description": "Dashboard for data from Bitcoin Core built with Node JS and Gatsby (hosted on Digital Ocean)",
+    "github": "https://github.com/peterdurham/node-update",
+    "url": "https://www.nodeupdate.com/",
+    "image": "../images/projects/node-update.jpg",
+    "tools": ["Gatsby", "Node", "Express", "MongoDB"]
+  },
+  {
     "title": "Tokyo Ramen",
     "slug": "tokyo-ramen",
     "type": "Restaurant Website",
@@ -40,16 +60,6 @@
     "tools": ["React", "React Router"]
   },
 
-  {
-    "title": "Node Update",
-    "slug": "node-update",
-    "type": "Statistics Dashboard",
-    "description": "Dashboard for data from Bitcoin Core built with Node JS and Gatsby (hosted on Digital Ocean)",
-    "github": "https://github.com/peterdurham/node-update",
-    "url": "https://www.nodeupdate.com/",
-    "image": "../images/projects/node-update.jpg",
-    "tools": ["Gatsby", "Node", "Express", "MongoDB"]
-  },
   {
     "title": "5g Availability Map",
     "slug": "5g-map",
@@ -91,16 +101,6 @@
     "tools": ["AMP", "CSS"]
   },
 
-  {
-    "title": "Michigan is Driving Mobility",
-    "slug": "michigan-is-driving-mobility",
-    "type": "Infographic",
-    "description": "Custom Infographic for Michigan Mobility",
-    "github": "",
-    "url": "https://www.digitaltrends.com/dtdesign/michigan-is-driving-mobility/",
-    "image": "../images/projects/MEDC-mobility.jpg",
-    "tools": ["Webflow"]
-  },
   {
     "title": "Roulette",
     "slug": "roulette",
@@ -172,13 +172,13 @@
     "tools": ["Webflow"]
   },
   {
-    "title": "Digital Trends Style Guide",
-    "slug": "dt-style-guide",
-    "type": "Style Guide",
-    "description": "Style guide for Digital Trends Website's creative resources.",
+    "title": "Michigan is Driving Mobility",
+    "slug": "michigan-is-driving-mobility",
+    "type": "Infographic",
+    "description": "Custom Infographic for Michigan Mobility",
     "github": "",
-    "url": "https://dtdesign.digitaltrends.com/",
-    "image": "../images/projects/dt-style-guide.jpg",
+    "url": "https://www.digitaltrends.com/dtdesign/michigan-is-driving-mobility/",
+    "image": "../images/projects/MEDC-mobility.jpg",
     "tools": ["Webflow"]
   }
 ]

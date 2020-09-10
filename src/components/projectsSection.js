@@ -3,6 +3,9 @@ import styled from "styled-components"
 import { useStaticQuery, graphql } from "gatsby"
 import Img from "gatsby-image"
 
+import { AiFillGithub } from "react-icons/ai"
+import { GoBrowser } from "react-icons/go"
+
 import ProjectIcon from "./projectIcon"
 
 const ProjectsSection = props => {
@@ -47,6 +50,7 @@ const ProjectsSection = props => {
                 <div className="project-image">
                   <Img fluid={node.image.childImageSharp.fluid} />
                 </div>
+
                 <div className="project-details">
                   <div className="project-type">{node.type}</div>
                   <div className="project-title">{node.title}</div>
@@ -57,8 +61,22 @@ const ProjectsSection = props => {
                   </div>
                   <div className="project-description">{node.description}</div>
                   <div className="project-links">
-                    <a href={node.url}>Hosted</a>
-                    {node.github.length > 0 && <a href={node.github}>Github</a>}
+                    <a
+                      href={node.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Hosted <GoBrowser />
+                    </a>
+                    {node.github.length > 0 && (
+                      <a
+                        href={node.github}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Github <AiFillGithub />
+                      </a>
+                    )}
                   </div>
                 </div>
               </div>
@@ -215,12 +233,19 @@ const ProjectStyles = styled.section`
   }
   .project-links a {
     font-size: 16px;
-    color: #0074e1;
+    color: #068dff;
     text-decoration: none;
     transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    z-index: 42;
   }
-  .Project-links a:hover {
-    color: #0062bf;
+  .project-links svg {
+    margin-left: 5px;
+    font-size: 20px;
+  }
+  .project-links a:hover {
+    color: #0078dd;
   }
   .projects-button-container {
     text-align: center;
