@@ -2,10 +2,10 @@ import React from "react"
 import styled from "styled-components"
 
 // import BackgroundVideo from "../video/intro-bg-video-compressed.mp4"
-import CometsGif from '../images/comets.gif'
+
 // import BackgroundPoster from "../images/background-poster.jpg"
-import PlanetGif from '../images/planet.gif'
-import Matrix from './matrix'
+
+
 
 const IntroSection = props => {
   return (
@@ -22,8 +22,7 @@ const IntroSection = props => {
           loop
         /> */}
         {/* <Matrix /> */}
-        {/* <img src={CometsGif} alt="planet background" className="comets-gif"/> */}
-        {/* <img src={PlanetGif} alt="planet" className="intro-gif" /> */}
+
 
         <div className="intro-container">
           <div className="text-line">
@@ -58,49 +57,6 @@ const IntroStyles = styled.section`
   height: 70vh;
   overflow: hidden;
 
-  & .intro-gif {
-    position: absolute;
-    top: 100px;
-    left: 0px;
-    width: 720px;
-    height: 405px;
-  }
-  @media (max-width: 1040px) {
-    & .intro-gif {
-      width: 540px;
-      height: 270px;
-    left: -100px;
-    top: 160px;
-    }
-  }
-  @media (max-width: 670px) {
-    & .intro-gif {
-      left: -300px;
-      top: 100px;
-    }
-  }
-
-  #background-video-poster {
-    background: black;
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-  }
-  .comets-gif {
-    z-index: 5;
-    width: 50%;
-    height: 100%;
-    position: absolute;
-    top: 40px;
-    left: 0;
-    object-fit: cover;
-    @media (max-width: 700px) {
-      height: 80%;
-      top: calc(50px + 10%);
-    }
-  }
 
   .intro-container {
     z-index: 10;
