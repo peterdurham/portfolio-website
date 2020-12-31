@@ -1,9 +1,93 @@
 [
   {
+    "title": "How to build a Memory Game using React",
+    "url": "https://www.code-boost.com/react-memory-game/",
+    "site": "code-boost",
+    "slug": "post-53",
+    "category": "React",
+    "image": "../images/blog/post53.jpg",
+    "excerpt": "Learn to build a memory game from scratch using React and NextJS. Keep score of results and play on various difficulties."
+  },
+  {
+    "title": "Top 10 Apps to Build When Learning Web Development",
+    "url": "https://www.code-boost.com/top-10-web-apps-for-practice/",
+    "site": "code-boost",
+    "slug": "post-57",
+    "category": "Web Development",
+    "image": "../images/blog/post57.jpg",
+    "excerpt": "Go to list for web applications to build for practice. Ten ideas for the best apps to build when practicing your skills in JavaScript and React."
+  },
+
+  {
+    "title": "How to Build a Full Stack MERN App (Node/React)",
+    "url": "https://www.code-boost.com/full-stack-mern-app/",
+    "site": "code-boost",
+    "slug": "post-43",
+    "category": "Full-stack",
+    "image": "../images/blog/post43.jpg",
+    "excerpt": "This tutorial is meant to help you create a basic working full-stack application using React and Node."
+  },
+  {
+    "title": "Create a blog with Netlify CMS and Gatsby",
+    "url": "https://www.code-boost.com/netlify-cms-gatsby-blog/",
+    "site": "code-boost",
+    "slug": "post-50",
+    "category": "Tools",
+    "image": "../images/blog/netlify_cms_fiber_optics.jpg",
+    "excerpt": "Netlify CMS is an open source content-management tool that works using git. It allows the user to create posts and pages in a web-based UI. One or more users can sign in to an admin panel to edit, preview, and publish content."
+  },
+  {
+    "title": "Top 5 Ways to Setup a React Application",
+    "url": "https://www.code-boost.com/top-5-ways-to-setup-a-react-app/",
+    "site": "code-boost",
+    "slug": "post-55",
+    "category": "React",
+    "image": "../images/blog/post55.jpg",
+    "excerpt": "Overview of the top 5 ways to build a React application with explainations for each. Includes create-react-app, Gatsby, Next.js, Parcel, CodeSandbox, and other notable mentions."
+  },
+  {
+    "title": "How to Set up an Apollo GraphQL Server",
+    "url": "https://www.code-boost.com/apollo-server-setup/",
+    "site": "code-boost",
+    "slug": "post-30",
+    "category": "GraphQL",
+    "image": "../images/blog/apollo_server_setup.jpg",
+    "excerpt": "Apollo Server is an open-source GraphQL server for Node.js. It can be used with Apollo Client on the frontend to create a fullstack application. In this tutorial we will setup our own server for video game data. Once we have a working API, we can connect it to Mongodb Atlas, and deploy it to Heroku."
+  },
+  {
+    "title": "How to Setup Dark Mode in React",
+    "url": "https://www.code-boost.com/dark-mode-in-react/",
+    "site": "code-boost",
+    "slug": "post-58",
+    "category": "Tools",
+    "image": "../images/blog/post58.jpg",
+    "excerpt": "Step by step tutorial on how to setup dark mode using React. Add this feature to your application using useState, useEffect, and localStorage."
+  },
+  {
+    "title": "Tips for Handling Images in Web Development",
+    "url": "https://www.code-boost.com/handling-images-in-web-development/",
+    "site": "code-boost",
+    "slug": "post-56",
+    "category": "HTML",
+    "image": "../images/blog/post56.jpg",
+    "excerpt": "Basic tips for selecting, resizing, compressing, and displaying images in web development. Handling images can help your website performance and design."
+  },
+  {
+    "title": "How to use CSS Animations without a library",
+    "url": "https://www.code-boost.com/css-animations-basics/",
+    "site": "code-boost",
+    "slug": "post-54",
+    "category": "CSS",
+    "image": "../images/blog/post54.jpg",
+    "excerpt": "Comphrensive overview for using CSS Animations with best performance. Guide to understanding keyframes and animation properties with practical examples."
+  },
+
+  {
     "title": "Hosting Web Apps with Heroku",
     "url": "https://www.code-boost.com/heroku-web-app-hosting/",
     "site": "code-boost",
     "slug": "post-52",
+    "category": "Tools",
     "image": "../images/blog/post52.jpg",
     "excerpt": "Heroku is a web platform that allows users to build, deploy, and maintain cloud applications. The platform specializes in hosting minimal config Node JS applications with both free and paid tiers."
   },
@@ -12,22 +96,17 @@
     "url": "https://www.code-boost.com/types-in-javascript/",
     "site": "code-boost",
     "slug": "post-51",
+    "category": "JavaScript",
     "image": "../images/blog/post51.jpg",
     "excerpt": "In JavaScript there are 7 main types that you will see values take on. These types include String, Number, Boolean, Object, Undefined, Null, and Symbol."
   },
-  {
-    "title": "Create a blog with Netlify CMS and Gatsby",
-    "url": "https://www.code-boost.com/netlify-cms-gatsby-blog/",
-    "site": "code-boost",
-    "slug": "post-50",
-    "image": "../images/blog/post50.jpg",
-    "excerpt": "Netlify CMS is an open source content-management tool that works using git. It allows the user to create posts and pages in a web-based UI. One or more users can sign in to an admin panel to edit, preview, and publish content."
-  },
+
   {
     "title": "Prettier Code Formatter Setup Guide",
     "url": "https://www.code-boost.com/prettier-setup-guide/",
     "site": "code-boost",
     "slug": "post-49",
+    "category": "Tools",
     "image": "../images/blog/post49.jpg",
     "excerpt": "Prettier is a code formatter that works with several languages including CSS, JavaScript, and React. Prettier is opinionated, in that it makes certain stylistic choices for you such as when to make a new line."
   },
@@ -36,6 +115,7 @@
     "url": "https://www.code-boost.com/node-file-system-basics/",
     "site": "code-boost",
     "slug": "post-48",
+    "category": "Node",
     "image": "../images/blog/post48.jpg",
     "excerpt": "Node.js comes with a built-in File System (fs) module that has all the features needed to perform CRUD operators on local files and folders. First install NodeJS if you haven’t already."
   },
@@ -44,6 +124,7 @@
     "url": "https://www.code-boost.com/hosting-web-apps-with-netlify/",
     "site": "code-boost",
     "slug": "post-47",
+    "category": "Tools",
     "image": "../images/blog/post47.jpg",
     "excerpt": "Netlify is a cloud hosting platform for static websites and serverless backend services. Netlify’s workflow is extremely simple as it connects directly with your Github, Gitlab, or Bitbucket account. Netlify’s numerous features include (but are not limited to)"
   },
@@ -52,6 +133,7 @@
     "url": "https://www.code-boost.com/beginners-guide-to-scss/",
     "site": "code-boost",
     "slug": "post-46",
+    "category": "CSS",
     "image": "../images/blog/post46.jpg",
     "excerpt": "SCSS is a popular preprocessor too for CSS that provides additional highly useful features. The syntax originally was derived from SASS which is a similar tool. In addition to its useful features, SCSS has seen wide adoption because .scss files work with CSS styles too."
   },
@@ -60,6 +142,7 @@
     "url": "https://www.code-boost.com/react-router-intro/",
     "site": "code-boost",
     "slug": "post-45",
+    "category": "React",
     "image": "../images/blog/post45.jpg",
     "excerpt": "React Router is a third-party library for React that uses declarative component routing. It allows you to assign components to specific endpoints on your site. Those endpoints can be visited by using React Router’s internal link component."
   },
@@ -68,17 +151,11 @@
     "url": "https://www.code-boost.com/graphql-basics/",
     "site": "code-boost",
     "slug": "post-44",
+    "category": "GraphQL",
     "image": "../images/blog/post44.jpg",
     "excerpt": "GraphQL is a query language for building and consuming APIs. It is an improvement to using REST APIs as GraphQL includes all the necessary data in a single endpoint."
   },
-  {
-    "title": "How to Build a Full Stack MERN App (Node/React)",
-    "url": "https://www.code-boost.com/full-stack-mern-app/",
-    "site": "code-boost",
-    "slug": "post-43",
-    "image": "../images/blog/post43.jpg",
-    "excerpt": "This tutorial is meant to help you create a basic working full-stack application using React and Node."
-  },
+
   {
     "title": "How to Set up React in a HTML File",
     "url": "https://www.code-boost.com/react-in-html-file-setup/",
@@ -175,14 +252,7 @@
     "image": "../images/blog/post31.jpg",
     "excerpt": "If you are using VS Code, here are some of the best shortcuts to speed up your coding. Here’s a quick refresher of some basic hotkeys that are not VS Code specific, but are still useful."
   },
-  {
-    "title": "How to Set up an Apollo GraphQL Server",
-    "url": "https://www.code-boost.com/apollo-server-setup/",
-    "site": "code-boost",
-    "slug": "post-30",
-    "image": "../images/blog/post30.jpg",
-    "excerpt": "Apollo Server is an open-source GraphQL server for Node.js. It can be used with Apollo Client on the frontend to create a fullstack application. In this tutorial we will setup our own server for video game data. Once we have a working API, we can connect it to Mongodb Atlas, and deploy it to Heroku."
-  },
+
   {
     "title": "How to Set up a Gatsby JS Project",
     "url": "https://www.code-boost.com/gatsby-basics/",

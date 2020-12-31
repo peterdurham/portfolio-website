@@ -7,13 +7,23 @@
     "github": "https://github.com/peterdurham/code-boost",
     "url": "https://www.code-boost.com/",
     "image": "../images/projects/code-boost.jpg",
-    "tools": ["React", "Gatsby", "Netlify CMS"]
+    "tools": ["Gatsby", "React", "Netlify CMS"]
+  },
+  {
+    "title": "Map Builder",
+    "slug": "map-builder",
+    "type": "Maps Application",
+    "description": "Full-stack Apollo GraphQL map building application using React and Node",
+    "github": "https://github.com/peterdurham/map-builder-client",
+    "url": "https://map-builder.netlify.app/",
+    "image": "../images/projects/mapbuilder2.jpg",
+    "tools": ["React", "GraphQL", "Node", "MongoDB"]
   },
   {
     "title": "Portfolio Watch",
     "slug": "portfolio-watch",
     "type": "Investing Dashboard",
-    "description": "Full-stack GraphQL investment tracking dashboard using React and Node",
+    "description": "Full-stack Apollo GraphQL investment tracking dashboard using React and Node",
     "github": "https://github.com/peterdurham/portfolio-watch-client",
     "url": "https://portfolio-watch.netlify.app/",
     "image": "../images/projects/portfolio-watch.jpg",
@@ -27,18 +37,9 @@
     "github": "",
     "url": "https://www.digitaltrends.com/dtdesign/volvo-suvs/",
     "image": "../images/projects/volvo-suvs.jpg",
-    "tools": ["JS", "CSS"]
+    "tools": ["HTML", "CSS", "JS"]
   },
-  {
-    "title": "Culture Club",
-    "slug": "culture-club",
-    "type": "Media Tracker",
-    "description": "Application to track books, movies, and games built with Next JS and GraphQL",
-    "github": "https://github.com/peterdurham/culture-club",
-    "url": "https://culture-club-next-prod.herokuapp.com/",
-    "image": "../images/projects/culture-club.jpg",
-    "tools": ["React", "Next", "GraphQL", "Node", "MongoDB"]
-  },
+ 
   {
     "title": "Node Update",
     "slug": "node-update",
@@ -47,7 +48,7 @@
     "github": "https://github.com/peterdurham/node-update",
     "url": "https://www.nodeupdate.com/",
     "image": "../images/projects/node-update.jpg",
-    "tools": ["Gatsby", "Node", "Express", "MongoDB"]
+    "tools": ["Gatsby", "React", "Node", "Express", "MongoDB"]
   },
   {
     "title": "Tokyo Ramen",
@@ -59,7 +60,16 @@
     "image": "../images/projects/tokyo-ramen.jpg",
     "tools": ["React", "React Router"]
   },
-
+  {
+    "title": "Culture Club",
+    "slug": "culture-club",
+    "type": "Media Tracker",
+    "description": "Application to track books, movies, and games built with Next JS and GraphQL",
+    "github": "https://github.com/peterdurham/culture-club",
+    "url": "https://culture-club-next-prod.herokuapp.com/",
+    "image": "../images/projects/culture-club.jpg",
+    "tools": ["React", "Next", "GraphQL", "Node", "MongoDB"]
+  },
   {
     "title": "5g Availability Map",
     "slug": "5g-map",
@@ -88,7 +98,7 @@
     "github": "",
     "url": "https://www.digitaltrends.com/topic/12-holiday-hacks/",
     "image": "../images/projects/12-holiday-hacks.jpg",
-    "tools": ["JS", "CSS"]
+    "tools": ["HTML", "CSS", "JS"]
   },
   {
     "title": "Apple iPhone 11 review",

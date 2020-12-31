@@ -1,8 +1,7 @@
 import React, { Component } from "react"
 import styled from "styled-components"
 
-import { FiChevronsUp } from "react-icons/fi"
-import { FaGithub, FaTwitter, FaLinkedinIn, FaMediumM } from "react-icons/fa"
+import { FaGithub, FaTwitter, FaLinkedinIn, FaYoutube } from "react-icons/fa"
 
 const encode = data => {
   return Object.keys(data)
@@ -45,7 +44,7 @@ class ContactSection extends Component {
               <input name="bot-field" onChange={this.handleChange} />
             </label>
           </p>
-          <div className="contact-header section-header">Contact</div>
+          <h2 className="contact-header section-header">Contact</h2>
           <p className="contact-message">
             Want to collaborate? Have a question?
           </p>
@@ -106,7 +105,7 @@ class ContactSection extends Component {
             <div className="contact-social-text">Github</div>
           </a>
           <a
-            href="https://twitter.com/peterjdurham"
+            href="https://twitter.com/BoostCode"
             className="contact-social-link contact-social-twitter"
           >
             <div className="contact-social-icon">
@@ -115,13 +114,13 @@ class ContactSection extends Component {
             <div className="contact-social-text">Twitter</div>
           </a>
           <a
-            href="https://medium.com/@peterjd42"
-            className="contact-social-link contact-social-medium"
+            href="https://www.youtube.com/channel/UCx935tkqWFguSF5zu0f6K0Q"
+            className="contact-social-link contact-social-youtube"
           >
             <div className="contact-social-icon">
-              <FaMediumM />
+              <FaYoutube />
             </div>
-            <div className="contact-social-text">Medium</div>
+            <div className="contact-social-text">YouTube</div>
           </a>
           <a
             href="https://www.linkedin.com/in/peter-durham-153a96166/"
@@ -234,7 +233,7 @@ const ContactStyles = styled.section`
   }
   .contact-social {
     border-top: 1.5px solid ${props => props.theme.grey6};
-    width: 450px;
+    width: 480px;
     margin: 0 auto;
     margin-top: 40px;
     padding-top: 40px;
@@ -272,6 +271,14 @@ const ContactStyles = styled.section`
     background-color: rgb(30, 30, 30);
     border: none;
     border-bottom: 3px solid rgba(0, 0, 0, 0.1);
+  }
+  .contact-social-youtube {
+    background-color: #FF0000;
+    border: none;
+    border-bottom: 3px solid rgba(0, 0, 0, 0.4);
+  }
+  .contact-social-icon {
+    transform: translateY(2px);
   }
   .contact-social-link {
     padding: 6px 12px 3px 12px;

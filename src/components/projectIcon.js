@@ -1,6 +1,7 @@
 import React from "react"
 
 import ReactLogo from "../images/skills/react.png"
+import HTMLLogo from '../images/skills/html.png'
 import JSLogo from "../images/skills/javascript.png"
 import CSSLogo from "../images/skills/css.png"
 import GatsbyLogo from "../images/skills/gatsby.png"
@@ -20,7 +21,9 @@ const ProjectIcon = ({ icon }) => {
 
   if (icon === "React") {
     img = <img src={ReactLogo} alt="React Logo" />
-  } else if (icon === "JS") {
+  } else if (icon === "HTML") {
+    img = <img src={HTMLLogo} alt="HTML Logo" />
+  }else if (icon === "JS") {
     img = <img src={JSLogo} alt="JavaScript Logo" />
   } else if (icon === "CSS") {
     img = <img src={CSSLogo} alt="CSS Logo" />

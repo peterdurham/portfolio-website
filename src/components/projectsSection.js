@@ -41,7 +41,7 @@ const ProjectsSection = props => {
   return (
     <ProjectStyles id="projects">
       <div id="projects-container">
-        <div className="section-header">Projects</div>
+        <h2 className="section-header">Projects</h2>
 
         <div className="projects">
           {filteredData.map(({ node }) => {

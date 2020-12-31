@@ -42,8 +42,14 @@ const Navbar = () => {
               Blog
             </div>
             <div
-              onClick={() => scrollToSection("#contact")}
+              onClick={() => scrollToSection("#videos")}
               className="nav-link nav-link-4"
+            >
+              Videos
+            </div>
+            <div
+              onClick={() => scrollToSection("#contact")}
+              className="nav-link nav-link-5"
             >
               Contact
             </div>
@@ -78,6 +84,9 @@ const Navbar = () => {
           <a href="#blog" onClick={() => setNavOpen(false)}>
             Blog
           </a>
+          <a href="#videos" onClick={() => setNavOpen(false)}>
+            Videos
+          </a>
           <a href="#contact" onClick={() => setNavOpen(false)}>
             Contact
           </a>
@@ -110,14 +119,14 @@ const NavStyles = styled.div`
   .nav-links {
     display: flex;
     align-items: center;
-    font-size: 20px;
+    font-size: 16px;
 
     @media (max-width: 700px) {
       display: none;
     }
   }
   .nav-link {
-    font-size: 18px;
+    font-size: 16px;
     color: #fff;
     text-decoration: none;
     padding: 0 20px;
@@ -143,6 +152,9 @@ const NavStyles = styled.div`
   }
   .nav-link-4 {
     animation: fadeInDown 0.3s both 1s;
+  }
+  .nav-link-5 {
+    animation: fadeInDown 0.3s both 1.1s;
   }
   @keyframes fadeInDown {
     0% {

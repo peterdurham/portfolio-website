@@ -41,14 +41,11 @@ const AboutSection = props => {
         <div className="entry">
           <h3>Web development</h3>
           <p>
-            I started learning web development in college and have been building
-            full-stack JavaScript applications ever since. I have been working
-            full time as Web Developer since April 2019.
+            I started learning web development in college and have been building applications ever since. I've been working
+            full time as a JavaScript Developer since April 2019.
           </p>
           <p>
-            I also maintain a JavaScript tutorials blog where I share what I
-            have learned at{" "}
-            <a href="https://www.code-boost.com/">code-boost.com</a>
+            I also run a Web Development tutorials blog at <a href="https://www.code-boost.com/">code-boost.com</a>
           </p>
         </div>
         <div className="entry">

@@ -2,7 +2,7 @@ import React from "react"
 import PropTypes from "prop-types"
 
 import { ThemeProvider, createGlobalStyle } from "styled-components"
-import { useStaticQuery, graphql } from "gatsby"
+
 
 const theme = {
   green8: "#1e392a",
@@ -18,6 +18,8 @@ const theme = {
 }
 
 const GlobalStyle = createGlobalStyle`
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;700&display=swap');
+
 *,
 *::after,
 *::before {
@@ -26,7 +28,7 @@ const GlobalStyle = createGlobalStyle`
   box-sizing: border-box;
 }
 html {
-  font-family: "Lato", sans-serif;
+  font-family: 'Libre Franklin', sans-serif;
 }
 a {
   cursor: pointer;
@@ -60,7 +62,7 @@ p {
   .footer__text {
     color: white;
     text-align: center;
-    font-size: 1.4rem;
+    font-size: 18px;
     height: 160px;
     line-height: 160px;
   }
