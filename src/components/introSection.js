@@ -56,7 +56,7 @@ const IntroStyles = styled.section`
   width: 100%;
   height: 70vh;
   overflow: hidden;
-
+  background: #000;
 
   .intro-container {
     z-index: 10;
